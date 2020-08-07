@@ -7,6 +7,13 @@ Experienced in object-oriented programming; developing, testing and debugging co
 I'm passionate about Machine learning and computer vision.
 When I'm not developing and building things, you can find me on Youtube learning, reading blogs & watching Netflix.</p>
 
+### 📖 What i am currently learning
+
+- Full Stack Web/App Development _ Progress 90% _
+- AI & Machine Learning _ Progress 20% _
+- DBMS _ Progress 60% _
+- C/C++/Python/Java
+
 ### 📫 Where to find me
 
 - [Facebook](https://facebook.com/khuzema894) 😏
@@ -16,9 +23,8 @@ When I'm not developing and building things, you can find me on Youtube learning
 - [Twitter](https://twitter.com/) 🐤
 - [Blog](https://khuzema786.com) 🤓💻
 
-<a href="https://github.com/khuzema786/github-readme-stats">
-  [![Khuzema Khomosi's stats](https://github-readme-stats.vercel.app/api?username=khuzema786)](https://github.com/khuzema786/github-readme-stats)
-</a>
-<a href="https://github.com/khuzema786/convoychat">
-  [![Khuzema Khomosi's stats](https://github-readme-stats.vercel.app/api?username=khuzema786)](https://github.com/khuzema786/github-readme-stats)
-</a>
+### Github Stats
+
+[![Khuzema Khomosi's stats](https://github-readme-stats.vercel.app/api?username=khuzema786)](https://github.com/khuzema786)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khuzema786&layout=compact)](https://github.com/khuzema786)
