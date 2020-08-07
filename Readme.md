@@ -25,6 +25,6 @@ When I'm not developing and building things, you can find me on Youtube learning
 
 ### Github Stats
 
-[![Khuzema Khomosi's stats](https://github-readme-stats.vercel.app/api?username=khuzema786)](https://github.com/khuzema786)
+[![Khuzema Khomosi's stats](https://github-readme-stats.vercel.app/api?username=khuzema786&show_icons=true&theme=radical)](https://github.com/khuzema786)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khuzema786&layout=compact)](https://github.com/khuzema786)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khuzema786&layout=compact&show_icons=true&theme=radical)](https://github.com/khuzema786)
