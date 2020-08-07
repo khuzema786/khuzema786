@@ -23,11 +23,10 @@ When I'm not developing and building things, you can find me on Youtube learning
 
 ### Github Stats
 
-[![Khuzema Khomosi's stats](https://github-readme-stats.vercel.app/api?username=khuzema786&show_icons=true&theme=default)](https://github.com/khuzema786)
+<img align="left" alt="Khuzema's Github Stats" src="https://github-readme-stats.vercel.app/api?username=khuzema786&show_icons=true&theme=radical" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khuzema786&layout=compact&show_icons=true&theme=default)](https://github.com/khuzema786)
-
+<img align="left" alt="Khuzema's Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khuzema786&show_icons=true&theme=radical"/>
 [website]: https://khuzema786.com
 [twitter]: https://twitter.com/
-[instagram]: https://www.linkedin.com/in/khuzema-khomosi-485828140/
-[linkedin]: https://linkedin.com/in/oishik-mandal-539164170/
+[instagram]: https://www.instagram.com/khuzema_khomosi
+[linkedin]: https://www.linkedin.com/in/khuzema-khomosi-485828140/
