@@ -1,4 +1,4 @@
-## [![Khuzema Khomosi's header](Git_banner.png)](https://khuzema786.com)
+## [![Khuzema Khomosi's header](https://github.com/khuzema786/khuzema786/blob/master/Git_banner.png)](https://khuzema786.com)
 
 <h2 align="center">Hello there! My name is Khuzema Khomosi. 👋🤓</h2>
 <p align="center">I'm a Full stack Web & App Developer, Graphic Designer, Video editor, Content Creator and a software developer from India.
@@ -25,6 +25,6 @@ When I'm not developing and building things, you can find me on Youtube learning
 
 ### Github Stats
 
-[![Khuzema Khomosi's stats](https://github-readme-stats.vercel.app/api?username=khuzema786&show_icons=true&theme=radical)](https://github.com/khuzema786)
+[![Khuzema Khomosi's stats](https://github-readme-stats.vercel.app/api?username=khuzema786&show_icons=true&theme=dark)](https://github.com/khuzema786)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khuzema786&layout=compact&show_icons=true&theme=radical)](https://github.com/khuzema786)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khuzema786&layout=compact&show_icons=true&theme=dark)](https://github.com/khuzema786)
