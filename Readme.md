@@ -16,4 +16,10 @@ When I'm not developing and building things, you can find me on Youtube learning
 - [Twitter](https://twitter.com/) 🐤
 - [Blog](https://khuzema786.com) 🤓💻
 
+<a href="https://github.com/khuzema786/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=khuzema786&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/khuzema786/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=khuzema786&repo=convoychat" />
+</a>
 [![Khuzema Khomosi's stats](https://github-readme-stats.vercel.app/api?username=khuzema786)](https://github.com/khuzema786/github-readme-stats)
