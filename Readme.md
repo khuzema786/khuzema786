@@ -30,5 +30,3 @@ When I'm not developing and building things, you can find me on Youtube learning
 <img align="left" alt="Khuzema's Github Stats" src="https://github-readme-stats.vercel.app/api?username=khuzema786&show_icons=true&theme=default" />
 
 <img align="left" alt="Khuzema's Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khuzema786&show_icons=true&theme=default"/>
-
-<img align="left" alt="Khuzema's Pin Repositories" src="https://github-readme-stats.vercel.app/api/pin/?username=khuzema786&show_icons=true&theme=default"/>
