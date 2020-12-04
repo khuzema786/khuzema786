@@ -16,12 +16,12 @@ When I'm not developing and building things, you can find me on Youtube learning
 
 ### 📫 Where to find me
 
+- [Website](https://khuzema.live) 😏🔗
+- [LinkedIn](https://www.linkedin.com/in/khuzema-khomosi-485828140/) 👨💼
 - [Facebook](https://facebook.com/khuzema894) 😏
 - [Instagram](https://instagram.com/khuzema_khomosi) 😎
-- [LinkedIn](https://www.linkedin.com/in/khuzema-khomosi-485828140/) 👨💼
-- [Website](https://khuzema786.com) 😏🔗
 - [Twitter](https://twitter.com/) 🐤
-- [Blog](https://khuzema786.com) 🤓💻
+- [Blog](https://medium.com) 🤓💻
 
 ### 💼 Languages and Tools
 
