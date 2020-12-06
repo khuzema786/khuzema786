@@ -9,34 +9,34 @@ When I'm not developing and building things, you can find me on Youtube learning
 
 ### 📖 What I am currently learning
 
-Graphic Designing Tools:
+#### Graphic Designing Tools:
 Adobe Photoshop, Adobe Illustrator, Adobe After Effects, Adobe Premiere Pre, CorelDraw.
 
-UI/UX & Prototyping:
+#### UI/UX & Prototyping:
 Adobe XD, Figma.
 
-Languages:
+#### Languages:
 JavaScript, Dart, Java, Python, C, C++, HTML, CSS, Markdown, PHP.
 
-App Development:
+#### App Development:
 Flutter, React-Native.
 
-Frontend Technologies:
+#### Frontend Technologies:
 React 17, Redux, electron, Next.js, Semantic UI, SCSS, Flexbox.
 
-Backend Technologies:
+#### Backend Technologies:
 Node.js, Express.js, PHP, Firebase.
 
-Database Systems: 
+#### Database Systems: 
 MySQL, PL/SQL, MongoDB.
 
-Data Analysis Tools:
+#### Data Analysis Tools:
 Numpy, Pandas, Matplotlib, SciKit-Learn.
 
-Cloud Services :
+#### Cloud Services :
 Heroku, Codesandbox, AWS EC2/ Route 53/ S3, NGINX.
 
-CL/CD Tools:
+#### CL/CD Tools:
 Git, GitHub Actions. 
 
 ### 📫 Where to find me
