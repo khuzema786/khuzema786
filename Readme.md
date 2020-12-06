@@ -9,10 +9,35 @@ When I'm not developing and building things, you can find me on Youtube learning
 
 ### 📖 What I am currently learning
 
-- Full Stack Web/App Development _Progress 90%_
-- AI & Machine Learning _ Progress 20% _
-- DBMS _ Progress 60% _
-- C/C++/Python/Java
+Graphic Designing Tools:
+Adobe Photoshop, Adobe Illustrator, Adobe After Effects, Adobe Premiere Pre, CorelDraw.
+
+UI/UX & Prototyping:
+Adobe XD, Figma.
+
+Languages:
+JavaScript, Dart, Java, Python, C, C++, HTML, CSS, Markdown, PHP.
+
+App Development:
+Flutter, React-Native.
+
+Frontend Technologies:
+React 17, Redux, electron, Next.js, Semantic UI, SCSS, Flexbox.
+
+Backend Technologies:
+Node.js, Express.js, PHP, Firebase.
+
+Database Systems: 
+MySQL, PL/SQL, MongoDB.
+
+Data Analysis Tools:
+Numpy, Pandas, Matplotlib, SciKit-Learn.
+
+Cloud Services :
+Heroku, Codesandbox, AWS EC2/ Route 53/ S3, NGINX.
+
+CL/CD Tools:
+Git, GitHub Actions. 
 
 ### 📫 Where to find me
 
