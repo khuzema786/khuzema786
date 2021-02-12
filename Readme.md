@@ -76,6 +76,6 @@ Git, GitHub Actions.
 
 ### Github Stats
 
-<img align="left" alt="Khuzema's Github Stats" src="https://github-readme-stats.vercel.app/api?username=khuzema786&show_icons=true&theme=default" />
+<img align="left" alt="Khuzema's Github Stats" src="https://github-readme-stats.vercel.app/api?username=khuzema786&show_icons=true&theme=tokyonight" />
 
-<img align="left" alt="Khuzema's Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khuzema786&show_icons=true&theme=default"/>
+<img align="left" alt="Khuzema's Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khuzema786&show_icons=true&theme=tokyonight"/>
