@@ -41,7 +41,7 @@ Git, GitHub Actions.
 
 ### 📫 Where to find me
 
-- [Website](https://khuzema.live) 😏🔗
+- [Website](https://khuzema.netlify.app) 😏🔗
 - [LinkedIn](https://www.linkedin.com/in/khuzema-khomosi-485828140/) 👨💼
 - [Facebook](https://facebook.com/khuzema894) 😏
 - [Instagram](https://instagram.com/khuzema_khomosi) 😎
